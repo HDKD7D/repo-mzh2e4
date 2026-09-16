@@ -1,8 +1,10 @@
 16-Sep-2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: docepler@icloud.com, achapin323@aol.com
-At: 2026-09-16 15:20:24
-Id: NrHaJDZv
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: marjoriemarcus@yahoo.com, reneeself59@aol.com
+At: 2026-09-16 15:21:03
+Id: 8cSM1jCW
